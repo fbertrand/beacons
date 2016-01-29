@@ -1,5 +1,5 @@
 // beacons project main.go
-package main
+package beacons
 
 import "fmt"
 

@@ -3,4 +3,4 @@
 /*
 beacons document
 */
-package main
+package beacons
